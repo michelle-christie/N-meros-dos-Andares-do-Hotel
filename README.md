@@ -1,2 +1,2 @@
-# N-meros-dos-Andares-do-Hotel
+# Numeros-dos-Andares-do-Hotel
 Projeto em Python para imprimir números dos andares de um hotel.
