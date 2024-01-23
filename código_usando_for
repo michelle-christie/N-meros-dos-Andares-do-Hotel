@@ -1,0 +1,15 @@
+#  usando for
+print("Usando for")
+for andar in range(20, 0, -1):
+    if andar != 13:
+        print(f'Andar {andar}')
+
+print("\n")
+
+
+print("Usando while")
+andar = 20
+while andar >= 1:
+    if andar != 13:
+        print(f'Andar {andar}')
+    andar -= 1
